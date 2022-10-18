@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Icons / 24px / Nav / Notif</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-24px-/-Nav-/-Notif" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M6,11 C6,7.6862915 8.6862915,5 12,5 C15.3137085,5 18,7.6862915 18,11 L18,18 L6,18 L6,11 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M9,18 C9,19.6568542 10.3431458,21 12,21 C13.6568542,21 15,19.6568542 15,18 L9,18 Z" id="Oval-12" stroke="#FFFFFF" stroke-width="2"></path>
+        <path d="M12,5 L12,3" id="Line" stroke="#FFFFFF" stroke-width="2"></path>
+    </g>
+</svg>
